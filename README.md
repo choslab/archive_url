@@ -41,9 +41,9 @@ https://tensorflow.blog/tag/tensorflow-playground/
 https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises?hl=ko   
 
 https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=spiral&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=5&networkShape=8,8,4&seed=0.82305&showTestData=false&discretize=false&percTrainData=80&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false   
-
-
-
+   
+   
+   
 https://www.mulesoft.com/platform/studio   
 
 https://blog.rightbrain.co.kr/?p=6713   
